@@ -53,3 +53,7 @@ const backtick = `Backtick`;
 console.log(single);
 console.log(double);
 console.log(backtick);
+
+const name = "Chris";
+const greeting = 'Hello, ${name}';
+console.log(greeting);

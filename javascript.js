@@ -39,3 +39,6 @@ const actual = max - 13;
 const percentage = actual / max;
 
 console.log(percentage);
+
+const string = "The revolution will not be televised."
+console.log(string);
